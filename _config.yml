@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "China"
 site_theme               : "default"
-title                    : "MengMing"
+title                    : "MengMing's Homepage"
 title_separator          : "-"
 name                     : &name "MengMing"
 description              : &description "personal description"
