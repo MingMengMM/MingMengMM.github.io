@@ -27,7 +27,7 @@ author:
   #pronouns         : # example: "she/her"  
   bio              : "Lecturer, CUC"
   location         : "Beijing, China"
-  employer         : "Communication University of China"
+  employer         : "Communication University //of China"
   #uri              : # URL
   email            : "mengming@cuc.edu.cn" 
 
