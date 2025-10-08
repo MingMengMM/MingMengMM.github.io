@@ -27,22 +27,6 @@ redirect_from:
 [15]周忠, **孟明**, 周颐. 支持大规模视频融合的混合现实技术[J]. 中兴通讯技术, 2017, 23(06): 6-9.
 
 
-
-[1] **Ming Meng**, Ke Mu, Yonggui Zhu, Zhe Zhu, Haoyu Sun, Heyang Yan and Zhaoxin Fan. VarGes: Improving Variation in Co-Speech 3D Gesture Generation via Style-CLIPS [J]. Computational Visual Media, 2025. (JCR Q1, IF=17.123，中科院二区)<br>
-[2] **Ming Meng**, Xiaoping Hou, Yisheng Wang, Hanwen Liu, Yufei Zhao, Qin Yuan. PolyMotion-7K: A Multimodal-Driven Polyglot Avatar Motion Dataset [C]. The 21th International Forum of Digital Multimedia Communication, 2024.<br>
-[3] **Ming Meng**, Yi Zhou, Zhaoxin Li, Zhong Zhou. Structure Recovery from Single Omnidirectional Image with Distortion-aware Learning [J]. Journal of King Saud University - Computer and Information Sciences, 2024. (JCR Q1，IF=6.9，中科院二区)<br>
-[4] **Ming Meng**, Yonggui Zhu,Yufei Zhao, Zhaoxin Li, and Zhe Zhu. 3D Indoor Scene Geometry Estimation from a Single Omnidirectional Image: A Comprehensive Survey [J]. Computational Visual Media, 2024. (JCR Q1, IF=17.123，中科院二区)<br>
-[5] Zhong Zhou(博导), **Ming Meng**, Yi Zhou, Zhe Zhu, Jingdi You. Model-Guided 3D Stitching for Augmented Virtual Environment [J]. Science China Information Sciences, 2022. (JCR Q1, IF=8.8，中科院一区)<br>
-[6] **Ming Meng**, Likai Xiao, Yi Zhou, Zhaoxin Li, Zhong Zhou. Distortion-aware room layout estimation from a single fisheye image [C]. IEEE International Symposium on Mixed and Augmented Reality (ISMAR), Bari, Italy, October 4-8, 2021. (CCF B 类会议)<br>
-[7] Mengfan Li, **Ming Meng(通讯作者)** and Zhong Zhou. RepF-Net: Distortion-aware Re-projection Fusion Network for Object Detection in Panorama Image [C]. Asian Conference on Computer Vision (ACCV), 2022. (CCF C类会议，通讯作者)<br>
-[8] **Ming Meng**, Yi Zhou, Chong Tan, Zhong Zhou. Viewpoint Quality Evaluation for Augmented Virtual Environment [C]. In Pacific-Rim Conference on Multimedia (PCM), Hefei, China, September 21-22, 2018. (CCF C 类会议)<br>
-[9] Fengjuan Qiao, Yonggui Zhu and **Ming Meng**. Efficient Image Restoration with Style-Guided Context Cluster and Interaction[J]. Neural Computing and Applications, 2024, 36: 6973-6991. (JCR Q1，IF=4.724)<br>
-[10] 周颐, **孟明**, 吴威, 周忠. 基于视频模型的虚拟现实视频融合系统[J]. 系统仿真学报, 2018, 30(7):2550-2557. (中文核心期刊)<br>
-[11] Mingyang Li, Yi Zhou, **Ming Meng**, Yuehua Wang and Zhong Zhou. 3D Room Reconstruction from a Single Fisheye Image [C]. International Joint Conference on Neural Networks (IJCNN), Budapest, Hungary, July 14-19, 2019.(CCF C 类会议)<br>
-[12] Yi Zhou, Mingjun Cao, Jingdi You, **Meng Ming**, Yuehua Wang and Zhong Zhou. MR Video Fusion: Interactive 3D Modeling and Stitching on Wide-baseline Videos[C]. ACM Symposium on Virtual Reality Software and Technology (VRST),Tokyo, Japan, November 28- December 01, 2018.(CCF C 类会议, 获 ACM VRST Forum8专项奖)<br>
-[13] 周忠, **孟明**, 周颐. 支持大规模视频融合的混合现实技术[J]. 中兴通讯技术, 2017, 23(06): 6-9.
-
-
 专利授权/申请
 ======
 [1] **孟明**, 肖立凯, 周忠. 一种深度信息引导的全方向图像三维结构自动恢复方法[P]. 专利授权号: ZL2022115336768（专利转化）<br>
