@@ -4,16 +4,16 @@ main:
     url: /publications/
 
   - title: "研究与成果"
-    # url: /talks/
+    url: /talks/
 
   - title: "科研项目"
-    # url: /teaching/
+    url: /teaching/
 
   - title: "学术服务"
-    # url: /portfolio/
+    url: /portfolio/
 
   - title: "竞赛获奖"
-    # url: /portfolio/
+    url: /portfolio/
 
   - title: "教学工作"
     url: /year-archive/
