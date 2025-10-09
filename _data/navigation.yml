@@ -9,7 +9,7 @@
 
 main:
   - title: "个人简介"
-    url: /publications/
+    url: /_publications/
 
   - title: "研究与成果"
   #  url: /talks/    
