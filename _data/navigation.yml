@@ -1,28 +1,24 @@
-# main links
 main:
-  - title: "个人简介"
+  - title: "Publications"
     url: /publications/
 
-  - title: "研究与成果"
-    url: /talks/
+  - title: "Talks"
+    url: /talks/    
 
-  - title: "科研项目"
-    url: /teaching/
-
-  - title: "学术服务"
+  - title: "Teaching"
+    url: /teaching/    
+    
+  - title: "Portfolio"
     url: /portfolio/
-
-  - title: "竞赛获奖"
-    url: /portfolio/
-
-  - title: "教学工作"
+        
+  - title: "Blog Posts"
     url: /year-archive/
-
-  # - title: "CV"
-  #   url: /cv/
-
+    
+  - title: "CV"
+    url: /cv/
+    
   # - title: "CV"
   #   url: /cv-json/
-
-  # - title: "Guide"
-  #   url: /markdown/
+    
+  - title: "Guide"
+    url: /markdown/
